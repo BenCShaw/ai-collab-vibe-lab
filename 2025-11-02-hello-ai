@@ -1,0 +1,6 @@
+def main ():
+    print("Welcome to your first AI-collaborative coding journey")
+    print("Running python directly from VS Code")
+
+if __name__ == "__main__":
+    main()
